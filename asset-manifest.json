@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/pamper_my_pet_deploy/static/css/main.7e3addcc.chunk.css",
+    "main.js": "/pamper_my_pet_deploy/static/js/main.e89073fd.chunk.js",
+    "main.js.map": "/pamper_my_pet_deploy/static/js/main.e89073fd.chunk.js.map",
+    "runtime~main.js": "/pamper_my_pet_deploy/static/js/runtime~main.f024b1c0.js",
+    "runtime~main.js.map": "/pamper_my_pet_deploy/static/js/runtime~main.f024b1c0.js.map",
+    "static/css/2.6872f70f.chunk.css": "/pamper_my_pet_deploy/static/css/2.6872f70f.chunk.css",
+    "static/js/2.98dade0c.chunk.js": "/pamper_my_pet_deploy/static/js/2.98dade0c.chunk.js",
+    "static/js/2.98dade0c.chunk.js.map": "/pamper_my_pet_deploy/static/js/2.98dade0c.chunk.js.map",
+    "index.html": "/pamper_my_pet_deploy/index.html",
+    "precache-manifest.a5460180662eb687455b07516cc01bf2.js": "/pamper_my_pet_deploy/precache-manifest.a5460180662eb687455b07516cc01bf2.js",
+    "service-worker.js": "/pamper_my_pet_deploy/service-worker.js",
+    "static/css/2.6872f70f.chunk.css.map": "/pamper_my_pet_deploy/static/css/2.6872f70f.chunk.css.map",
+    "static/css/main.7e3addcc.chunk.css.map": "/pamper_my_pet_deploy/static/css/main.7e3addcc.chunk.css.map",
+    "static/media/App.css": "/pamper_my_pet_deploy/static/media/Shopping-dog.f7f1f7ba.jpg",
+    "static/media/font-awesome.min.css": "/pamper_my_pet_deploy/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
